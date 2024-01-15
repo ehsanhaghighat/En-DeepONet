@@ -7,13 +7,19 @@ The proposed method represents a significant advancement in operator learning th
 
 ![Results](predictions.gif)
 
+
 ```bibtex
-@article{haghighat2023novel,
-  title={An enrichment approach for enhancing the expressivity of neural operators with applications to seismology},
-  author={Haghighat, Ehsan and Waheed, Umair bin and Karniadakis, George},
-  journal={arXiv preprint arXiv:2306.04096},
-  url={https://arxiv.org/abs/2306.04096},
-  year={2023}
+@article{HAGHIGHAT2024116681,
+title = {En-DeepONet: An enrichment approach for enhancing the expressivity of neural operators with applications to seismology},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {420},
+pages = {116681},
+year = {2024},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2023.116681},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782523008046},
+arxiv = {https://arxiv.org/abs/2306.04096},
+author = {Ehsan Haghighat and Umair bin Waheed and George Karniadakis},
 }
 ```
 
